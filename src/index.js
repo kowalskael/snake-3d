@@ -1,5 +1,3 @@
-import * as THREE from 'three';
-
 // canvas
 const canvas = document.getElementById('canvas');
 let scale = 10;
